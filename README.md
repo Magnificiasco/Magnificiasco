@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Magnificiasco
 - 👀 I’m interested in HTML, CSS, Javascript and Python.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on ... (meybe later)
+- 🌱 I’m currently learning HTML and CSS, git.
+- 💞️ I’m looking to collaborate on ... (maybe later)
 - 📫 How to reach me: my_login@i.ua
 
 <!---
