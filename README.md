@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, Javascript and Python.
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on ... (meybe later)
-- 📫 How to reach me: my login@i.ua
+- 📫 How to reach me: my_login@i.ua
 
 <!---
 Magnificiasco/Magnificiasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
